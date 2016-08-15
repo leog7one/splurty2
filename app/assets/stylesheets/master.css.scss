@@ -1,3 +1,4 @@
+
 @import "bootstrap-sprockets";
 @import "bootstrap";
 
@@ -38,6 +39,8 @@ padding-top: 26px;
   color: black;
   font-size: 25px;
   border-bottom: 1px solid #dfdfdf;
+  font-family: 'sinkin_sans400_regular';
+  font-size: 18px;
 }
 
 header {
@@ -46,4 +49,13 @@ header {
 
 hr {
   clear:both;
+}
+
+h1 {
+  font-family: 'sinkin_sans400_regular';
+  font-weight: bold;
+}
+
+h2 {
+  font-family: 'sinkin_sans400_regular';
 }
